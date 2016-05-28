@@ -7,6 +7,8 @@ gem 'rails', '4.2.5'
 gem 'devise'
 # Use Devise Twitter Bootstrap Views
 gem 'devise-bootstrap-views'
+# Use Stock Quote for stock prices
+gem 'stock_quote'
 # Use Twitter Bootstrap for rails
 gem 'twitter-bootstrap-rails'
 # Use SCSS for stylesheets
