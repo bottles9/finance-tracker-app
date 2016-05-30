@@ -15,10 +15,11 @@
 //= require twitter/bootstrap
 //= require_tree .
 
-var hide_spinner = function() {
+/* global $*/
+var hide_spinner = function(){
   $('#spinner').hide();
 }
 
-var show_spinner = function() {
+var show_spinner = function(){
   $('#spinner').show();
 }
